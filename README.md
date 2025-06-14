@@ -156,7 +156,6 @@
                 <img src="https://placehold.co/150x150/C8E6C9/4CAF50?text=Healthy+Eating" alt="Healthy Eating" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover">
                 <h3 class="text-xl font-semibold mb-2">Expert Nutrition Guidance</h3>
                 <p class="text-gray-700">Sustainable meal plans and dietary advice to fuel your body, optimize health, and support your fitness journey.</p>
-            </p>
             </div>
             <div class="card text-center">
                 <img src="https://placehold.co/150x150/BBDEFB/2196F3?text=Strength+Training" alt="Strength Training" class="w-24 h-24 rounded-full mx-auto mb-4 object-cover">

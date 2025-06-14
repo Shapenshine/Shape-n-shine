@@ -180,6 +180,21 @@
         </div>
     </section>
 
+    <section class="container py-12">
+  <div class="quote-section">
+    <p class="quote-text">…your quote…</p>
+    <p class="quote-author">- Anita Gupta</p>
+  </div>
+
+  <!-- Animated Motivational Images -->
+  <div class="grid grid-cols-1 sm:grid-cols-3 gap-6 mb-12">
+    <img src="<IMAGE_URL_1>" alt="Animated weight loss motivation 1" class="rounded-lg shadow-lg object-cover w-full h-48">
+    <img src="<IMAGE_URL_2>" alt="Animated weight loss motivation 2" class="rounded-lg shadow-lg object-cover w-full h-48">
+    <img src="<IMAGE_URL_3>" alt="Animated weight loss motivation 3" class="rounded-lg shadow-lg object-cover w-full h-48">
+  </div>
+</section>
+
+
     <!-- Testimonials Section -->
     <section class="container py-16">
         <h2 class="section-title">What Our Clients Say</h2>
